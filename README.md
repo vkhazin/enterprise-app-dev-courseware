@@ -26,3 +26,33 @@ You will come out more comfortable dealing with typical and/or atypical enterpri
 * Software developers familiar with coding and looking to extend industry knowledge 
 * Network engineers, system operators, and quality assurance personnel desiring to widen the knowledge
 * Technical product owners aspiring to extend the understanding of trade-offs in enterprise development
+
+## Objectives
+
+* Review common software types: batch, daemon/service, middleware, database, cli, desktop, client-server, web, mobile, and edge
+* Get familiar with programming paradigms: procedural, OOP, declarative, event-driven, functional, and declarative
+* Understand implications of selecting statically vs. dynamically typed languages
+* Assess common programming languages and their suitability for business requirements
+* Analyze trade-off of multi-layer and distributed applications
+* Explore prevalent communication patterns, e.g.: Web Services, Messaging, and Publisher/Subscriber
+* Examine common software architecture patterns and their evolution
+* Define best coding practices from the enterprise point of view
+* Experiment with common programming languages, application/web platforms and databases to draw a comparison
+* Dissect common development anti-patterns and prevalent technical debt
+* Discuss Software Development Life Cycle
+* Clarify the need for configuration and secrets management
+* Consider application hosting options: self-managed, IaaS, PaaS, containers, and serverless
+* Introduce the importance of automation for deployment, testing, and operation
+
+## Prerequisites
+
+* Recent hands-on experience writing scripts and/or code
+* Access to AWS personal account where free trial is sufficient
+
+* Familiarity with Micro-services concepts
+* Database and data-modelling awareness
+* The notion of security and compliance concerns
+* Access to AWS, GCP, Azure account, free trial is sufficient
+* Willingness to register a free trial account on JumpCloud and DataDog
+
+
