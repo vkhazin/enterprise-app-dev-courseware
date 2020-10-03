@@ -20,3 +20,9 @@ Anti-patterns are common, tech debt is a norm, nothing ever seems to run smoothl
 
 You will experience different approaches with pragmatic hands-on labs and group discussions.
 You will come out more comfortable dealing with typical and/or atypical enterprise software.
+
+## Audience
+
+* Software developers familiar with coding and looking to extend industry knowledge 
+* Network engineers, system operators, and quality assurance personnel desiring to widen the knowledge
+* Technical product owners aspiring to extend the understanding of trade-offs in enterprise development
