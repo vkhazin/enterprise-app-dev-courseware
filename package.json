@@ -1,0 +1,19 @@
+{
+  "name": "enterprise-app-dev-courseware",
+  "version": "1.0.0",
+  "description": "Enterprise software development crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkhazin/enterprise-app-dev-courseware.git"
+  },
+  "author": "Vlad Khazin <vladimir.khazin@icssolutions.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkhazin/enterprise-app-dev-courseware/issues"
+  },
+  "homepage": "https://github.com/vkhazin/enterprise-app-dev-courseware#readme"
+}
