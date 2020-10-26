@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "12.14.1"
+
+branches:
+  only:
+  - master
+    
+script:
+  - npm install -g gitbook-cli surge
+  - npm install
+  - gitbook install
+  - gitbook build
+  - surge --domain http://endappdev-courseware.surge.sh/ --project ./_book
