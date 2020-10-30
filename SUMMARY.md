@@ -12,6 +12,13 @@
 * [About Participants](./overview/participants.md)
 * [Logistics](./overview/logistics.md)
 
+## Course Introduction
+
+* [Introduction](./course-intro/intro.md)
+* [From Coding to Programming](./course-intro/coding2programming.md)
+* [Source Control Management](./course-intro/scm.md)
+* [Summary](./course-intro/summary.md)
+
 ## Course Summary
 
 * [Cleanup](./course-summary/cleanup.md)

@@ -58,8 +58,8 @@ Anti-patterns are common, tech debt is a norm, nothing ever seems to run smoothl
 
 ### Introduction
 
-* From coding to software development
-* Source control systems
+* From coding to programing
+* Source control management
 * Development in a team
 * Artifacts versioning
 * Testing methods
