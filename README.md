@@ -61,9 +61,9 @@ Anti-patterns are common, tech debt is a norm, nothing ever seems to run smoothl
 * From coding to programing
 * Source control management
 * Development in a team
-* Artifacts versioning
+* Artifacts
 * Testing methods
-* Production troubleshooting
+* Production
 
 ### Application Types
 

@@ -17,6 +17,11 @@
 * [Introduction](./course-intro/intro.md)
 * [From Coding to Programming](./course-intro/coding2programming.md)
 * [Source Control Management](./course-intro/scm.md)
+* [Development in a Team](./course-intro/development-team.md)
+* [Artifacts](./course-intro/artifacts.md)
+* [Testing Methods](./course-intro/testing-methods.md)
+* [Testing Methods Cont'd](./course-intro/testing-methods-1.md)
+* [Production](./course-intro/production.md)
 * [Summary](./course-intro/summary.md)
 
 ## Course Summary
