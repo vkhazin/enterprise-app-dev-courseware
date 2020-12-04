@@ -24,6 +24,12 @@
 * [Production](./course-intro/production.md)
 * [Summary](./course-intro/summary.md)
 
+## Application Types
+
+* [Introduction](./app-types/intro.md)
+* [Batch](./app-types/batch.md)
+* [Daemon/Service](./app-types/daemon-service.md)
+
 ## Course Summary
 
 * [Cleanup](./course-summary/cleanup.md)
