@@ -4,7 +4,8 @@
   "description": "Enterprise software development crash course",
   "main": "index.js",
   "scripts": {
-    "start": "gitbook serve"
+    "start": "gitbook serve",
+    "publish": "git add . && git commit -a -m 'publish' && git push"
   },
   "repository": {
     "type": "git",
