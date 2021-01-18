@@ -30,6 +30,11 @@
 * [Batch](./app-types/batch.md)
 * [Daemon/Service](./app-types/daemon-service.md)
 * [CLI](./app-types/cli.md)
+* [Desktop GIU](./app-types/desktop-gui.md)
+* [Client-Server](./app-types/client-server.md)
+* [Web-based](./app-types/web-based.md)
+* [Mobile App](./app-types/mobile-app.md)
+* [IoT & Robotic](./app-types/iot-robotic.md)
 
 ## Course Summary
 
