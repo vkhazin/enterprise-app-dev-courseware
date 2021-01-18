@@ -29,6 +29,7 @@
 * [Introduction](./app-types/intro.md)
 * [Batch](./app-types/batch.md)
 * [Daemon/Service](./app-types/daemon-service.md)
+* [CLI](./app-types/cli.md)
 
 ## Course Summary
 
